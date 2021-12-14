@@ -23,4 +23,6 @@ Full Stack Developer
 
 🔭 I’m currently working on Angular and PHP.
 
-<codersrank-skills-chart username="TomasLodola"></codersrank-skills-chart>
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tomaslodola&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
