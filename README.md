@@ -27,3 +27,4 @@ Full Stack Developer
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lodolatomas&skills=JSON,TypeScript,HTML,SCSS,JavaScript,CSS,PHP,C,C#,Python&show-other-skills=true"
 />
 
+![ScreenShot](https://user-images.githubusercontent.com/52363833/146078648-0722f77d-cbd5-4139-9695-d9ae923e959a.png)
