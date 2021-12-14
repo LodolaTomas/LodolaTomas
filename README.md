@@ -23,6 +23,6 @@ Full Stack Developer
 
 🔭 I’m currently working on Angular and PHP.
 
-<codersrank-summary username="tomaslodola"></codersrank-summary>
+<codersrank-summary username="lodolatomas"></codersrank-summary>
 
 <script src="https://unpkg.com/@codersrank/summary@0.9.11/codersrank-summary.min.js"></script>
