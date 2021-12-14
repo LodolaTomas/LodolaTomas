@@ -1,4 +1,3 @@
-<script src="https://unpkg.com/@codersrank/summary@0.9.11/codersrank-summary.min.js"></script>
 ### Hi there 👋
 
 <!--
@@ -24,6 +23,6 @@ Full Stack Developer
 
 🔭 I’m currently working on Angular and PHP.
 
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lodolatomas&badges=5&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"/>
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lodolatomas&badges=3&show-avatar=true&style=--header-bg-color:%23000;--border-radius:10px"/>
 
 
