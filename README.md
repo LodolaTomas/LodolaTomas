@@ -1,3 +1,7 @@
+import CodersRankSkillsChart from '@codersrank/skills-chart';
+
+// register web component as <codersrank-skills-chart> element
+window.customElements.define('codersrank-skills-chart', CodersRankSkillsChart);
 ### Hi there 👋
 
 <!--
@@ -23,6 +27,9 @@ Full Stack Developer
 
 🔭 I’m currently working on Angular and PHP.
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=tomaslodola&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
+<codersrank-skills-chart
+  username="tomaslodola"
+  labels
+  legend
+  tooltip
+></codersrank-skills-chart>
