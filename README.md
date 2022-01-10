@@ -23,8 +23,9 @@ Full Stack Developer
 
 🔭 I’m currently working on Angular and PHP.
 
-![ScreenShot](https://user-images.githubusercontent.com/52363833/146078648-0722f77d-cbd5-4139-9695-d9ae923e959a.png)
-
+<img 
+     src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lodolatomas&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px" 
+/>
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lodolatomas&skills=JSON,TypeScript,HTML,SCSS,JavaScript,CSS,PHP,C,C#,Python&show-other-skills=true"
 />
