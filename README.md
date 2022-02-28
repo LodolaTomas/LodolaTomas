@@ -19,9 +19,9 @@ Lodola Tomas
 
 contact@lodolatomas.com.ar
 
-Full Stack Developer
+Full Stack MEAN Developer
 
-🔭 I’m currently working on Angular and PHP.
+🔭 I’m currently working on Angular and Node.
 
 <img 
      src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=lodolatomas&badges=3&show-avatar=true&style=--header-bg-color:%23000;" 
